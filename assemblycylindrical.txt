@@ -1,0 +1,18 @@
+
+assembling cylindral panorama from fisheye
+
+http://www.cambridgeincolour.com/tutorials/image-projections.htm
+http://www.cambridgeincolour.com/tutorials/digital-camera-sensor-size.htm
+
+http://docs.opencv.org/modules/stitching/doc/stitching.html
+http://graphics.cs.cmu.edu/courses/15-463/2004_fall/www/Papers/MSR-TR-2004-92-Sep27.pdf
+http://research.microsoft.com/pubs/75695/Szeliski-FnT06.pdf
+http://www.ipam.ucla.edu/publications/gss2013/gss2013_11333.pdf
+	Image Alignment and Stitching: A Tutorial1, Szelinski
+
+
+http://michel.thoby.free.fr/Fisheye_history_short/Projections/Models_of_classical_projections.html
+	Models
+
+
+http://michel.thoby.free.fr/Fisheye_history_short/Projections/synthetic_circular_images.html

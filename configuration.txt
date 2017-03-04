@@ -1,0 +1,10 @@
+
+
+
+- 2048 x 2048 camera
+- 1" sensor (2.54 cm)
+- fisheye lens 2.7mm focal, iris F1.8-F16
+- Back Focal Distance
+- 185° × 185°( ￼ 8.6mm)
+- min focus 0.2m
+- Exit Pupil Position (From Image Plane) (mm) -49
